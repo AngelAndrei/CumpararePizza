@@ -14,7 +14,7 @@ public Pizza(boolean vegetarina) {
         }
         basePizza=this.price;
 
-Then you only pick what you want extra on your pizza,pick if it's a take away order and prints the bill's price.
+Then you only pick what you want extra on your pizza,pick if it's a take away order and prints the bills price.
 
 
 There is also a PremiumPizza that is extended and has everything already added,and the Override function so you can't add anymore to it.
